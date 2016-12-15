@@ -14,8 +14,7 @@ Spark-pipe is a tool for [spark][1], that changes a command line program(C/C++, 
  ```
 After compiling, there would create a build folder and get logs like this :
 
-> ================================================================================
-The Program has been compiled.
+> The Program has been compiled.
 Location    = /xxxx/spark-pipe/build/
 JAVA_HOME   = /xxxx/jdk1.8.0_77
 HADOOP_HOME = /usr/local/hadoop
@@ -92,7 +91,7 @@ Apache 2.0
 
   [1]: http://spark.apache.org/
   [2]: http://spark.apache.org/docs/latest/api/java/org/apache/spark/rdd/RDD.html#pipe
-  [3]: https://github.com/enjoyhot/spark-pipe/tree/master/figure.png
+  [3]: https://github.com/enjoyhot/spark-pipe/blob/master/figure.png
   [4]: https://github.com/enjoyhot/spark-pipe/tree/master/data
   [5]: https://github.com/enjoyhot/spark-pipe/tree/master/conf
   [6]: https://github.com/enjoyhot/spark-pipe/tree/master/conf/split_program.py
